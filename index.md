@@ -1,3 +1,3 @@
-# Here is a list of ISE courses offered through Github
+Here is a list of ISE courses with Github pages.
 
-* [ISE 407](https://github.com/LehighISECourses/ISE407
+* [ISE 407](https://github.com/LehighISECourses/ISE407)
